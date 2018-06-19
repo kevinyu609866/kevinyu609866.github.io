@@ -170,28 +170,28 @@ img::-moz-selection {
 }
 
 header.masthead {
-  /*text-align: center;*/
-  /*color: white;*/
-  /*background-image: url("https://www.ncompass.co.uk/wp-content/uploads/2017/04/a-coders-life.jpg");*/
-  /*background-repeat: no-repeat;*/
-  /*background-attachment: scroll;*/
-  /*background-position: center center;*/
-  /*-webkit-background-size: cover;*/
-  /*-moz-background-size: cover;*/
-  /*-o-background-size: cover;*/
-  /*background-size: cover;*/
+  text-align: center;
+  color: white;
+  background-image: url("https://www.ncompass.co.uk/wp-content/uploads/2017/04/a-coders-life.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
 
-    text-align: center;
-    color: white;
-    background-image: url("../img/header-bg.jpg");
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    /*text-align: center;*/
+    /*color: white;*/
+    /*background-image: url("../img/header-bg.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: scroll;*/
+    /*background-position: center center;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
 }
 
 header.masthead .intro-text {
