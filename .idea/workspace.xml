@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e0042b2-6941-436d-84c9-7ffb806e2652" name="Default" comment="" />
+    <list default="true" id="6e0042b2-6941-436d-84c9-7ffb806e2652" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +21,8 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="193" column="10" selection-start-line="193" selection-start-column="10" selection-end-line="193" selection-end-column="10" />
+            <state relative-caret-position="233">
+              <caret line="601" selection-start-line="601" selection-end-line="601" />
             </state>
           </provider>
         </entry>
@@ -26,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6664">
-              <caret line="392" column="58" lean-forward="true" selection-start-line="392" selection-start-column="58" selection-end-line="392" selection-end-column="58" />
+            <state relative-caret-position="182">
+              <caret line="376" column="16" selection-start-line="376" selection-start-column="9" selection-end-line="376" selection-end-column="16" />
               <folding>
                 <element signature="e#2546#2552#0" expanded="true" />
                 <element signature="e#2578#2584#0" expanded="true" />
@@ -46,8 +50,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="6084" lean-forward="true" selection-start-line="6084" selection-end-line="6084" />
+            <state relative-caret-position="190">
+              <caret line="6086" column="39" selection-start-line="6086" selection-start-column="39" selection-end-line="6086" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -56,9 +60,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>masthead</find>
-      <find>bg</find>
       <find>bg-light</find>
+      <find>bg-l</find>
+      <find>bg</find>
+      <find>masthead</find>
+      <find>bg-lig</find>
+      <find>contact</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -67,8 +74,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
       </list>
     </option>
@@ -139,12 +146,12 @@
       <updated>1529391927893</updated>
       <workItem from="1529391929200" duration="56000" />
       <workItem from="1529392250105" duration="2616000" />
-      <workItem from="1529441875691" duration="5761000" />
+      <workItem from="1529441875691" duration="8308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8433000" />
+    <option name="totallyTimeSpent" value="10980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -210,15 +217,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="6084" lean-forward="true" selection-start-line="6084" selection-end-line="6084" />
+        <state relative-caret-position="190">
+          <caret line="6086" column="39" selection-start-line="6086" selection-start-column="39" selection-end-line="6086" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6664">
-          <caret line="392" column="58" lean-forward="true" selection-start-line="392" selection-start-column="58" selection-end-line="392" selection-end-column="58" />
+        <state relative-caret-position="182">
+          <caret line="376" column="16" selection-start-line="376" selection-start-column="9" selection-end-line="376" selection-end-column="16" />
           <folding>
             <element signature="e#2546#2552#0" expanded="true" />
             <element signature="e#2578#2584#0" expanded="true" />
@@ -235,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="193" column="10" selection-start-line="193" selection-start-column="10" selection-end-line="193" selection-end-column="10" />
+        <state relative-caret-position="233">
+          <caret line="601" selection-start-line="601" selection-end-line="601" />
         </state>
       </provider>
     </entry>
