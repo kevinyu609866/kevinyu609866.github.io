@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e0042b2-6941-436d-84c9-7ffb806e2652" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+            <state relative-caret-position="182">
+              <caret line="313" column="23" selection-start-line="313" selection-start-column="18" selection-end-line="313" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -30,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="480" column="14" selection-start-line="480" selection-start-column="14" selection-end-line="480" selection-end-column="14" />
+            <state relative-caret-position="1432">
+              <caret line="177" column="14" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
               <folding>
                 <element signature="e#2546#2552#0" expanded="true" />
                 <element signature="e#2578#2584#0" expanded="true" />
@@ -48,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="173">
-              <caret line="2392" column="12" selection-start-line="2392" selection-start-column="1" selection-end-line="2392" selection-end-column="12" />
+              <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -70,6 +68,12 @@
       <find>btn</find>
       <find>send mes</find>
       <find>linked</find>
+      <find>port</find>
+      <find>database</find>
+      <find>portfoliomodal2</find>
+      <find>data-di</find>
+      <find>modal</find>
+      <find>portfolio</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,12 +154,12 @@
       <updated>1529391927893</updated>
       <workItem from="1529391929200" duration="56000" />
       <workItem from="1529392250105" duration="2616000" />
-      <workItem from="1529441875691" duration="11292000" />
+      <workItem from="1529441875691" duration="16147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13964000" />
+    <option name="totallyTimeSpent" value="18819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -219,21 +223,21 @@
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
-          <caret line="2392" column="12" selection-start-line="2392" selection-start-column="1" selection-end-line="2392" selection-end-column="12" />
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        <state relative-caret-position="182">
+          <caret line="313" column="23" selection-start-line="313" selection-start-column="18" selection-end-line="313" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="480" column="14" selection-start-line="480" selection-start-column="14" selection-end-line="480" selection-end-column="14" />
+        <state relative-caret-position="1432">
+          <caret line="177" column="14" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
           <folding>
             <element signature="e#2546#2552#0" expanded="true" />
             <element signature="e#2578#2584#0" expanded="true" />
