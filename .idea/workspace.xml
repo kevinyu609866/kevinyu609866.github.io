@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1432">
-              <caret line="177" column="14" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
+            <state relative-caret-position="233">
+              <caret line="500" column="47" lean-forward="true" selection-start-line="500" selection-start-column="47" selection-end-line="500" selection-end-column="47" />
               <folding>
                 <element signature="e#2546#2552#0" expanded="true" />
                 <element signature="e#2578#2584#0" expanded="true" />
@@ -154,12 +154,12 @@
       <updated>1529391927893</updated>
       <workItem from="1529391929200" duration="56000" />
       <workItem from="1529392250105" duration="2616000" />
-      <workItem from="1529441875691" duration="16334000" />
+      <workItem from="1529441875691" duration="16699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19006000" />
+    <option name="totallyTimeSpent" value="19371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -236,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1432">
-          <caret line="177" column="14" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
+        <state relative-caret-position="233">
+          <caret line="500" column="47" lean-forward="true" selection-start-line="500" selection-start-column="47" selection-end-line="500" selection-end-column="47" />
           <folding>
             <element signature="e#2546#2552#0" expanded="true" />
             <element signature="e#2578#2584#0" expanded="true" />
