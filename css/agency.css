@@ -62,6 +62,7 @@ section h3.section-subheading {
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
+  border-radius: 300px;
 }
 
 .btn-xl {
@@ -172,7 +173,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/dark-blue-tech-circuit-board-technology-animated-background-video-graphic-design-ultra-hd-4k-3840x2160_sgelpuywg_thumbnail-full05.png");
+  background-image: url("https://d3ui957tjb5bqd.cloudfront.net/uploads/2015/03/mrdiv.gif");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
