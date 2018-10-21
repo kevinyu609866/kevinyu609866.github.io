@@ -1,0 +1,13 @@
+README.txt filter=lfs diff=lfs merge=lfs -text
+vendor filter=lfs diff=lfs merge=lfs -text
+css filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
+js filter=lfs diff=lfs merge=lfs -text
+package.json filter=lfs diff=lfs merge=lfs -text
+package-lock.json filter=lfs diff=lfs merge=lfs -text
+scss filter=lfs diff=lfs merge=lfs -text
+gulpfile.js filter=lfs diff=lfs merge=lfs -text
+img filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+mail filter=lfs diff=lfs merge=lfs -text
